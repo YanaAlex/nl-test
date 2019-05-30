@@ -1,0 +1,19 @@
+.owl-prev {
+    background-image: url(../img/Icon_backArrow.png);
+    width: 60px;
+    height: 60px;
+}
+
+.owl-next {
+    background-image: url(../img/Icon_backArrow.png);
+    width: 60px;
+    height: 60px;
+    transform: rotate(180deg);
+}
+
+.table__style-button {
+    display: flex;
+    justify-content: center;
+    margin-left: -79px;
+    margin-right: -79px;
+}

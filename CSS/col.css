@@ -1,0 +1,316 @@
+@media screen and (max-width: 1960px) {
+    .col-xl-1 {
+        width: calc(8.33% - 30px);
+    }
+    .col-xl-2 {
+        width: calc(16.66% - 30px);
+    }
+    .col-xl-3 {
+        width: calc(24.99% - 30px);
+    }
+    .col-xl-4 {
+        width: calc(33.32% - 30px);
+    }
+    .col-xl-5 {
+        width: calc(41.65% - 30px);
+    }
+    .col-xl-6 {
+        width: calc(50% - 30px);
+    }
+    .col-xl-7 {
+        width: calc(58.31% - 30px);
+    }
+    .col-xl-8 {
+        width: calc(66.64% - 30px);
+    }
+    .col-xl-9 {
+        width: calc(74.97% - 30px);
+    }
+    .col-xl-10 {
+        width: calc(83.33% - 30px);
+    }
+    .col-xl-11 {
+        width: calc(91.63% - 30px);
+    }
+    .col-xl-12 {
+        width: calc(100% - 30px);
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .col-lg-1 {
+        width: calc(8.33% - 30px);
+    }
+    .col-lg-2 {
+        width: calc(16.66% - 30px);
+    }
+    .col-lg-3 {
+        width: calc(24.99% - 30px);
+    }
+    .col-lg-4 {
+        width: calc(33.32% - 30px);
+    }
+    .col-lg-5 {
+        width: calc(41.65% - 30px);
+    }
+    .col-lg-6 {
+        width: calc(50% - 30px);
+    }
+    .col-lg-7 {
+        width: calc(58.31% - 30px);
+    }
+    .col-lg-8 {
+        width: calc(66.64% - 30px);
+    }
+    .col-lg-9 {
+        width: calc(74.97% - 30px);
+    }
+    .col-lg-10 {
+        width: calc(83.33% - 30px);
+    }
+    .col-lg-11 {
+        width: calc(91.63% - 30px);
+    }
+    .col-lg-12 {
+        width: calc(100% - 30px);
+    }
+    .logo {
+        width: 130px;
+    }
+    .menu-main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 93px;
+    }
+    .menu {
+        display: flex;
+        flex-wrap: wrap;
+        font-size: 15px;
+    }
+    .menu__item {
+        margin-right: 29px;
+    }
+    .row--features__title {
+        font-size: 13px !important;
+    }
+    .row--features__subtitle {
+        font-size: 10px !important;
+    }
+    .features__img {
+        height: 50px;
+    }
+    .social-icons {
+        display: flex;
+        justify-content: flex-end;
+    }
+    .row--features__licence {
+        font-size: 7px !important;
+    }
+    .owl-carousel {
+        display: none;
+        max-width: 760px;
+    }
+    .owl-video-frame {
+        ;
+        max-width: 768px;
+    }
+    .reviews-slider {
+        width: 768px;
+        height: 192px;
+    }
+    .owl-carousel {
+        display: none;
+        width: 768px;
+        z-index: 1;
+    }
+    .title {
+        font-size: 74px;
+    }
+    .title__subtitle {
+        font-size: 45px;
+    }
+    .subtitle {
+        font-size: 13px;
+    }
+    .button__waist, .button__waist :hover {
+        width: 198px;
+        height: 82px;
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .col-md-1 {
+        width: calc(8.33% - 30px);
+    }
+    .col-md-2 {
+        width: calc(16.66% - 30px);
+    }
+    .col-md-3 {
+        width: calc(24.99% - 30px);
+    }
+    .col-md-4 {
+        width: calc(33.32% - 30px);
+    }
+    .col-md-5 {
+        width: calc(41.65% - 30px);
+    }
+    .col-md-6 {
+        width: calc(50% - 30px);
+    }
+    .col-md-7 {
+        width: calc(58.31% - 30px);
+    }
+    .col-md-8 {
+        width: calc(66.64% - 30px);
+    }
+    .col-md-9 {
+        width: calc(74.97% - 30px);
+    }
+    .col-md-10 {
+        width: calc(83.33% - 30px);
+    }
+    .col-md-11 {
+        width: calc(91.63% - 30px);
+    }
+    .col-md-12 {
+        width: calc(100% - 30px);
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .col-sm-1 {
+        width: calc(8.33% - 30px);
+    }
+    .col-sm-2 {
+        width: calc(16.66% - 30px);
+    }
+    .col-sm-3 {
+        width: calc(24.99% - 30px);
+    }
+    .col-sm-4 {
+        width: calc(33.32% - 30px);
+    }
+    .col-sm-5 {
+        width: calc(41.65% - 30px);
+    }
+    .col-sm-6 {
+        width: calc(50% - 30px);
+    }
+    .col-sm-7 {
+        width: calc(58.31% - 30px);
+    }
+    .col-sm-8 {
+        width: calc(66.64% - 30px);
+    }
+    .col-sm-9 {
+        width: calc(74.97% - 30px);
+    }
+    .col-sm-10 {
+        width: calc(83.33% - 30px);
+    }
+    .col-sm-11 {
+        width: calc(91.63% - 30px);
+    }
+    .col-sm-12 {
+        width: calc(100% - 30px);
+    }
+    .logo {
+        width: 104px;
+    }
+    .col__title {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        justify-content: center;
+        min-height: 93px;
+    }
+    .features__img {
+        height: 31px;
+    }
+    .row--features__title {
+        font-size: 8px !important;
+    }
+    .row--features__subtitle {
+        font-size: 4px !important;
+    }
+    .row--features__licence {
+        font-size: 4px !important;
+    }
+    .col__figcaption {
+        font-size: 12.75px !important;
+    }
+    .reviews-slider {
+        height: 192px;
+        font-size: 14px !important;
+    }
+    .owl-carousel {
+        display: none;
+        max-width: 320px;
+    }
+    .owl-video-frame {
+        max-width: 320px;
+    }
+    .reviews-slider {
+        width: 320px;
+        height: 192px;
+    }
+    .owl-carousel {
+        display: none;
+        width: 320px;
+        z-index: 1;
+    }
+    .footer-logo__img {
+        width: 110px;
+    }
+    .footer-logo__description {
+        font-size: 4px !important;
+    }
+    .social-icons__imgVk, .social-icons__imgYouTube, .social-icons__imgInstagram {
+        width: 26px;
+    }
+    .social-icons__imgYouTube {
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: none) {
+    .col-1 {
+        width: calc(8.33% - 30px);
+    }
+    .col-2 {
+        width: calc(16.66% - 30px);
+    }
+    .col-3 {
+        width: calc(24.99% - 30px);
+    }
+    .col-4 {
+        width: calc(33.32% - 30px);
+    }
+    .col-5 {
+        width: calc(41.65% - 30px);
+    }
+    .col-6 {
+        width: calc(50% - 30px);
+    }
+    .col-7 {
+        width: calc(58.31% - 30px);
+    }
+    .col-8 {
+        width: calc(66.64% - 30px);
+    }
+    .col-9 {
+        width: calc(74.97% - 30px);
+    }
+    .col-10 {
+        width: calc(83.33% - 30px);
+    }
+    .col-11 {
+        width: calc(91.63% - 30px);
+    }
+    .col-12 {
+        width: calc(100% - 30px);
+    }
+}

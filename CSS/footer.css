@@ -1,0 +1,26 @@
+.footer-logo__description {
+    font-size: 13px;
+    color: #a2a2a2;
+}
+
+.row__footerLogo {
+    margin-top: 110px;
+    margin-bottom: 70px;
+}
+
+.footer-license__2015 {
+    font-size: 13px;
+    color: #a2a2a2;
+    align-self: center;
+    text-align: center;
+}
+
+.col__footerSocialIcons,
+.col__footerLogo {
+    align-self: center;
+}
+
+.footerSocialIcons {
+    display: flex;
+    justify-content: flex-end;
+}
