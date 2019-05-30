@@ -105,6 +105,8 @@
 
 .reviews-slider {
     height: 192px;
+    display: flex;
+    align-items: center;
 }
 
 .row--reviews-slider {
