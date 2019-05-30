@@ -1,15 +1,15 @@
-.main-content__features-title {
+.row--features-title {
     padding: 136px 0;
 }
 
-.main-content__title {
+.col--features-title {
     display: flex;
     justify-content: center;
     font-size: 27.83px;
     font-weight: 700;
 }
 
-.features__row {
+.row--features {
     background-image: url(../img/botle.png);
     background-repeat: no-repeat;
     background-position-x: center;
@@ -21,7 +21,7 @@
     flex-direction: column;
 }
 
-.main-content__features-title {
+.row--features__title {
     font-size: 22px;
     font-weight: 700;
     margin-bottom: 20px;
@@ -105,8 +105,6 @@
 
 .reviews-slider {
     height: 192px;
-    display: flex;
-    align-items: center;
 }
 
 .row--reviews-slider {
