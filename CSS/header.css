@@ -8,6 +8,16 @@
     transition: .5s;
 }
 
+.nav__container {
+    background-color: #fff;
+    position: fixed;
+    top: 37px;
+    z-index: 3;
+    width: 100%;
+    max-width: inherit;
+    transition: top .5s;
+}
+
 .logo {
     margin-right: auto;
 }
