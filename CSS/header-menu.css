@@ -1,0 +1,39 @@
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.nav__container {
+    background-color: #fff;
+    position: fixed;
+    top: 37px;
+    z-index: 3;
+    width: 100%;
+    max-width: inherit;
+    transition: top .5s;
+}
+
+.menu__item {
+    margin-right: 44px;
+    display: block;
+}
+
+.menu__item :hover {
+    font-size: 13px;
+    color: #f69e00;
+}
+
+.menu__item a {
+    font-size: 13px;
+    font-weight: 700;
+    color: #969596;
+}
+
+.menu__item--bold {
+    color: #282528 !important;
+}
+
+.menu__item--telephone {
+    font-weight: bold;
+    display: block;
+}

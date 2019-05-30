@@ -1,0 +1,41 @@
+.header::after {
+    content: "";
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+    opacity: 0;
+    transition: .5s;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header__girl {
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size: contain;
+    transition: .5s;
+}
+
+.header__banner--a {
+    background: #48d7d7;
+}
+
+.header__banner--a .header__girl {
+    background-image: url(../img/girl.png);
+}
+
+.header__banner--b {
+    background: #dd529f;
+}
+
+.header__banner--b .header__girl {
+    background-image: url(../img/Girl2.png);
+}
+
+.header__banner--c::after {
+    opacity: 1;
+    background-image: url(../img/girl3.png);
+}

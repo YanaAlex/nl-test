@@ -15,11 +15,22 @@ body {
     min-height: 100%;
 }
 
+
+.container .col {
+    margin: 0 15px;
+}
+
+.row {
+    display: flex;
+    /* margin: 0 -15px; */
+}
+
 * {
     box-sizing: border-box;
     text-decoration: none;
     padding:0;
     margin: 0;
+    font-size: 100%; 
 }
 
 header{
@@ -42,3 +53,4 @@ header{
     width: 100%;
     max-width: inherit;
 }
+
