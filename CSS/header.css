@@ -84,19 +84,6 @@
     }
 }
 
-/* #img-1 {
-    background-image: url(../img/Girl2.png);
-    background-repeat: no-repeat;
-    background-position-x: right;
-    background-size: contain;
-    padding-bottom: 40px;
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-
-} */
-
 .container .col {
     margin: 0 15px;
 }
